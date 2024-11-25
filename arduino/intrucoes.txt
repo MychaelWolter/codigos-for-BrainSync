@@ -1,0 +1,1 @@
+Abra a IDE do Arduino e crie um novo esboço (sketch) com o seguinte código:

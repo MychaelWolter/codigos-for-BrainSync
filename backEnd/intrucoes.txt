@@ -1,0 +1,6 @@
+cd BrainSync/backEnd
+npm init es6 -y
+npm install express
+npm install socket.io
+npm install serialport
+npm install @serialport/parser-readline
